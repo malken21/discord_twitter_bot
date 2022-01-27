@@ -1,0 +1,9 @@
+{
+  "Discord_TOKEN" : "ディスコードのボットのToken",
+  "Bearer_TOKEN"  : "TwitterのBearer TOKEN",
+  "Twitter_User_ID" : "TwitterのユーザーID 注意:文字列ではなく数値",
+  "ServerID" : "表示させたいディスコードのサーバーID",
+  "ChannelID" : "ディスコードのチャンネルID",
+  "Cron_Time": "30 */30 * * * *",
+  "tag" : "ハッシュタグ"
+}
