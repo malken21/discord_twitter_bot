@@ -2,6 +2,8 @@
 指定したTwitterのユーザーの 指定したハッシュタグの付いた最新ツイートをディスコードの指定したサーバーの指定したチャンネルでツイートを発言するディスコードのBOT
 <br>
 <br>
+Twitter API v2
+<br>
 Discord.js V13
 <br>
 node-cron 3.0.0
